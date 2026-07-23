@@ -2,6 +2,8 @@
 
 LIDLbot is an all-in-one experiment platform designed for psychological or linguistic experiments on conversational user interface interactions that require per-trial manipulations or measurements. LIDLbot features customizable modules and built-in voice agent and chatbot simulators to help researchers build streamlined experiments quickly. It offers benefits similar to Wizard-of-Oz setups, while not requiring live researcher administration of stimuli or responses.
 
+Link to full paper (Conversational User Interfaces '26): [https://dl.acm.org/doi/10.1145/3816046.381627](https://dl.acm.org/doi/10.1145/3816046.3816275)
+
 # Table of Contents
 - [Environment Setup](#Environment-Setup)
   - [Hardware Prerequisites](#Hardware-Prerequisites)
