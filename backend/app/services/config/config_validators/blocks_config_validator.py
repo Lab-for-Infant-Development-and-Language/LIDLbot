@@ -29,6 +29,7 @@ def validate_blocks_config(blocks_config, trials_config, config_path):
     
     validate_trials_config(trials_config, config_path)
     for block_name, block in blocks_config.items():
+        trial_pool_name = block.get("trials")
         num_trials_to_sample = block.get("num_trials_to_sample")
         num_alts = block.get("num_alts")
         trial_pool_size = len(trials_config[trial_pool_name])

@@ -1,0 +1,19 @@
+{
+    "Set1": {
+        "assistant": [
+            "sample_session_code_entry",
+            "sample_voicebot_block_1",
+            "sample_session_code_entry",
+            "sample_chatbot_block_2",
+            "dummy_session_code_entry"
+        ],
+        "study": [
+            "sample_content_viewer",
+            "sample_web_content_embed",
+            "sample_session_code_display",
+            "sample_prompter_block_1",
+            "sample_session_code_display",
+            "sample_prompter_block_2"
+        ]
+    }
+}

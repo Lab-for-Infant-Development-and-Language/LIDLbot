@@ -1,0 +1,35 @@
+[
+    {
+        "prompter": {
+            "type": "image",
+            "value": "resources/assets/images/trial_pools/sample_trial_pool_2/image_prompt_a.png"
+        },
+        "responses": {
+            "type": "text",
+            "main_value": "Sample Main Response A",
+            "alt_value": "Sample Alternative Response A"
+        }
+    },
+    {
+        "prompter": {
+            "type": "image",
+            "value": "resources/assets/images/trial_pools/sample_trial_pool_2/image_prompt_b.png"
+        },
+        "responses": {
+            "type": "text",
+            "main_value": "Sample Main Response B",
+            "alt_value": "Sample Alternative Response B"
+        }
+    },
+    {
+        "prompter": {
+            "type": "image",
+            "value": "resources/assets/images/trial_pools/sample_trial_pool_2/image_prompt_c.png"
+        },
+        "responses": {
+            "type": "text",
+            "main_value": "Sample Main Response C",
+            "alt_value": "Sample Alternative Response C"
+        }
+    }
+]

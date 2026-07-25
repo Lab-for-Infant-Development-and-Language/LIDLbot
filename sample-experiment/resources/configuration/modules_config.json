@@ -1,0 +1,54 @@
+{
+    "sample_content_viewer": {
+        "template": "content_viewer",
+        "contents": [
+            { "type": "text", "value": "Text Content 1" },
+            { "type": "image", "value": "resources/assets/images/sample_content_viewer/image_content_1.png" },
+            { "type": "text", "value": "Text Content 2" },
+            { "type": "image", "value": "resources/assets/images/sample_content_viewer/image_content_2.png" }
+        ]
+    },
+    "sample_web_link": {
+        "template": "web_link",
+        "url": "https://uwaterloo.ca1.qualtrics.com/jfe/form/SV_4Oum2nT2zo2zQt8"
+    },
+    "sample_web_content_embed": {
+        "template": "web_content_embed",
+        "url": "https://www.youtube.com/embed/U0_V6A_XXio",
+        "button_reveal_timeout": 5,
+        "auto_advance_timeout": null,
+        "embed_style": "flex: 1"
+    },
+    "sample_session_code_entry": {
+        "template": "session_code_entry",
+        "code": "sample_code"
+    },
+    "dummy_session_code_entry": {
+        "template": "session_code_entry",
+        "code": "dummy_code"
+    },
+    "sample_session_code_display": {
+        "template": "session_code_display",
+        "code": "sample_code"
+    },
+    "sample_prompter_block_1": {
+        "template": "prompter",
+        "block": "sample_block_1"
+    },
+    "sample_voicebot_block_1": {
+        "template": "voicebot",
+        "block": "sample_block_1",
+        "bot_name": "sample_voice_bot",
+        "min_words": 5
+    },
+    "sample_prompter_block_2": {
+        "template": "prompter",
+        "block": "sample_block_2"
+    },
+    "sample_chatbot_block_2": {
+        "template": "chatbot",
+        "block": "sample_block_2",
+        "bot_name": "sample_chat_bot",
+        "min_words": 5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "sample_block_1": {
+        "trials": "resources/configuration/trials_config/sample_1_trials_config.json",
+        "num_trials_to_sample": 4,
+        "num_alts": 2,
+        "randomize": true
+    },
+    "sample_block_2": {
+        "trials": "resources/configuration/trials_config/sample_2_trials_config.json",
+        "num_trials_to_sample": 3,
+        "num_alts": 1,
+        "randomize": true
+    }
+}

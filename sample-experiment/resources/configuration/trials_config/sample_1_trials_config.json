@@ -1,0 +1,46 @@
+[
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Sample Text Prompt A"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/trial_pools/sample_trial_pool_1/sample_audio_response_a.m4a",
+            "alt_value": "resources/assets/audio/trial_pools/sample_trial_pool_1/sample_audio_alternative_response.m4a"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Sample Text Prompt B"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/trial_pools/sample_trial_pool_1/sample_audio_response_b.m4a",
+            "alt_value": "resources/assets/audio/trial_pools/sample_trial_pool_1/sample_audio_alternative_response.m4a"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Sample Text Prompt C"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/trial_pools/sample_trial_pool_1/sample_audio_response_c.m4a",
+            "alt_value": "resources/assets/audio/trial_pools/sample_trial_pool_1/sample_audio_alternative_response.m4a"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Sample Text Prompt D"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/trial_pools/sample_trial_pool_1/sample_audio_response_d.m4a",
+            "alt_value": "resources/assets/audio/trial_pools/sample_trial_pool_1/sample_audio_alternative_response.m4a"
+        }
+    }
+]
