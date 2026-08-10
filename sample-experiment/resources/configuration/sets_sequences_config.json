@@ -8,6 +8,7 @@
             "dummy_session_code_entry"
         ],
         "study": [
+            "sample_web_link",
             "sample_content_viewer",
             "sample_web_content_embed",
             "sample_session_code_display",
